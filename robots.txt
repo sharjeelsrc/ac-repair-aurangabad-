@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sharjeelsrc.github.io/ac-repair-aurangabad-/sitemap.xml
