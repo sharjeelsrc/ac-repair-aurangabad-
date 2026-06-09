@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.srenterprises-aurangabad.in/sitemap.xml
+
+Sitemap: https://sharjeelsrc.github.io/ac-repair-aurangabad-/sitemap.xml
